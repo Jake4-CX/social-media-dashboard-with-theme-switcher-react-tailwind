@@ -26,7 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/14060724/216728171-895a2236-d978-45a8-8add-823b32ae7c61.png)
+![image](https://user-images.githubusercontent.com/14060724/216728195-f42e4656-e6fe-4c36-944b-15abf35466d9.png)
+
 
 ### Links
 
